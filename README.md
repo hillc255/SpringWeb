@@ -8,4 +8,6 @@ Spring Boot web app to upload a file.
     Maven
     Embedded Tomcat
     
- ## Run on command line :  mvn spring-boot:run 
+ ## Run on command line :  
+ 
+    mvn spring-boot:run 
