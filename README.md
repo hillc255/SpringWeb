@@ -1,5 +1,5 @@
 # SpringWeb
-Spring Boot web app to upload a file.
+Spring Boot web app to upload a file for Udacity Java Nanodegree.
 
 ## Tools used :
 
